@@ -15,11 +15,11 @@
 
 - GIT est un système de controle de version qui permet de garder un historique des modifications apportés sur un projet .
 
-- Une branche GIT est une ligne de développement indépendante qui permet de tester de nouvelles fonctionalités , des correctifs sans perturber la branche MASTER
+- Une branche GIT est une ligne de développement indépendante qui permet de tester de nouvelles fonctionalités , des correctifs sans perturber la branche main
 
 - La branche principale dant GIT s'appelle MASTER
 
-- Pour créeer une branche dans git je fais : `git branch <nom de la branche>`
+- Pour créer une branche dans git je fais : `git branch <nom de la branche>`
 
 - Un "Add" enregistre dans le stage les fichiers qu’on souhaitera plus tard valider .Un "commit est la sauvegarde des modifications qui se trouvent dans la zone index et qui vont être stockées au niveau du repository
 
