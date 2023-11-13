@@ -13,7 +13,7 @@
 
 # Résultats
 
-- GIT est un système de controle de version. Il permet de garder un historique des modifications apportés sur un projet .
+- GIT est un système de controle de version qui permet de garder un historique des modifications apportés sur un projet .
 
 - Une branche GIT est une ligne de développement indépendante qui permet de tester de nouvelles fonctionalités , des correctifs sans perturber la branche MASTER
 
